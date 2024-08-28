@@ -8,6 +8,7 @@ based on: [ITSFOSS Ref](https://itsfoss.com/compile-linux-kernel/)
 ### Step 1: Install Dependencies
 
 ```bash
+sudo apt update
 sudo apt install bc binutils bison dwarves flex gcc git gnupg2 gzip libelf-dev libncurses5-dev libssl-dev make openssl pahole perl-base rsync tar xz-utils
 ```
 
