@@ -1,6 +1,7 @@
 # Kernel-Compile-Install
 
 Steps on how to compile and install linux kernel by yourself
+based on: [ITSFOSS Ref](https://itsfoss.com/compile-linux-kernel/)
 
 ## Prequisite
 
